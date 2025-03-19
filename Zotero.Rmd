@@ -6,6 +6,7 @@ output:
     lib_dir: "libs"
     css: ["css/slides.scss", "css/fonts.scss"]
     seal: false 
+    chakra: "libs/remark-latest.min.js"
     nature:
       highlightStyle: github
       highlightLines: true
@@ -21,6 +22,9 @@ editor_options:
 knitr::opts_chunk$set(
   warning = FALSE, message = FALSE,
   fig.retina = 3, fig.align = "center")
+
+xaringanExtra::use_tile_view()
+xaringanExtra::use_panelset()
 ```
 
 class: center middle main-title section-title-4
