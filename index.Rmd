@@ -35,6 +35,19 @@ class: center middle main-title section-title-4
 .class-info[.light[Cormac Monaghan]]
 ---
 
+name: qr-code
+class: title title-inv-1
+
+# Follow along
+
+.center[
+<figure>
+ <img src="files/img/qr-code.svg" width="500px">
+ </figure>
+]
+
+---
+
 name: outline
 class: title title-inv-1
 
@@ -224,5 +237,23 @@ class: center middle section-title section-title-4 animated fadeIn
 
 # Other cool stuff
 
+---
 
+layout: true
+class: title title-inv-4
 
+---
+
+# Other cool stuff
+
+.box-inv-4.medium.sp-after-half[Connected Papers]
+
+.box-inv-4.medium.sp-after-half[Semantic Scholar]
+
+.box-inv-4.medium.sp-after-half[Unpaywall]
+
+<br>
+
+.box-4.medium.sp-after-half[SciHub]
+
+---
