@@ -74,7 +74,7 @@ class: title title-inv-1
 
 layout: false
 name: what-are-managers
-class: center middle section-title section-title-2 animated fadeIn
+class: center middle section-title section-title-6 animated fadeIn
 
 # What are reference managers
 
@@ -86,6 +86,10 @@ class: center middle section-title section-title-2 animated fadeIn
  </figure>
 ]
 
+???
+
+Have you ever started an assignment, opened Google Scholar, and suddenly realise you are drowning in a mountain of papers. You have 20 tabs open, 5 PDFs downloaded, and you are not sure which paper is which. 
+
 ---
 
 .center[
@@ -94,18 +98,14 @@ class: center middle section-title section-title-2 animated fadeIn
  </figure>
 ]
 
----
+???
 
-layout: false
-name: what-is-zotero
-class: center middle section-title section-title-1 animated fadeIn
-
-# What is Zotero
+Or you have a home screen that looks like this
 
 ---
 
 layout: true
-class: title title-1
+class: title title-6
 
 ---
 
@@ -125,7 +125,7 @@ class: title title-1
 
 .pull-left-3[
 <figure>
- <img src="files/img/angry_homer.png" width="100px">
+ <img src="files/img/angry_homer.svg" width="100px">
  </figure>
 ]
 
@@ -136,6 +136,19 @@ class: title title-1
  <img src="files/img/happy_homer.jpg" width="250px">
  </figure>
 ]
+
+---
+
+layout: false
+name: what-is-zotero
+class: center middle section-title section-title-1 animated fadeIn
+
+# What is Zotero
+
+---
+
+layout: true
+class: title title-1
 
 ---
 
@@ -266,3 +279,13 @@ class: title title-inv-4
 .box-4.medium.sp-after-half[SciHub]
 
 ---
+
+# Questions
+
+<br>
+<br>
+<br>
+
+--
+
+.box-4.medium.sp-after-half[Do you want to see a dancing shark]
